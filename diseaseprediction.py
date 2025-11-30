@@ -1,5 +1,6 @@
 # --------------------------------------------------------------
-#  Disease Prediction from Medical Data (Complete Project Code)
+#  Disease Prediction from Medical Data 
+#this is 
 # --------------------------------------------------------------
 
 import pandas as pd
@@ -135,3 +136,4 @@ if __name__ == "__main__":
         print("\nPrediction:", "Disease Present" if result == 1 else "No Disease")
 
     print("\nDone ✔")
+
