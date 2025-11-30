@@ -1,12 +1,11 @@
 # Streamlit Disease Prediction App
 # --------------------------------
-# Single-file Streamlit app that:
 # - Loads datasets (Diabetes, Heart Disease, Breast Cancer) from built-ins or uploaded CSV
 # - Preprocesses (optional scaling)
 # - Trains Logistic Regression, SVM, Random Forest, XGBoost
 # - Shows evaluation metrics, confusion matrix, ROC
 # - Allows single-sample prediction and model download
-#
+#  -typing the issues and predicting the disease
 # Save this file as streamlit_disease_predictor.py and run:
 #    streamlit run streamlit_disease_predictor.py
 
@@ -408,3 +407,4 @@ st.write("\n---\nBuilt with ❤️  — Streamlit")
 
 
 # End of file
+
